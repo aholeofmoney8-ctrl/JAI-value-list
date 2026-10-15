@@ -14,3 +14,5 @@ Calculator
 Inventory (fake inventory u can edit. does nothing for now)
 <img width="563" height="1218" alt="image" src="https://github.com/user-attachments/assets/1917941b-9aee-4cd5-ad35-7fd4974422f4" />
 
+link to the website :
+aholeofmoney8-ctrl.github.io/JAI-value-list/
