@@ -1,0 +1,133 @@
+==================================================
+THE TRADING SITE - ACCESSORIES
+==================================================
+Lobotomy Volcano | Worth: 7000 | Demand: 6/5 | Status: UNOB, Reincarnate 5
+Dark Heian Robe | Worth: 1900 | Demand: 6/5 | Status: UNOB
+Dark Heian Pants | Worth: 1600 | Demand: 6/5 | Status: UNOB, Reincarnate once
+Enlightenment Beads | Worth: 1250 | Demand: 5/5 | Status: Reincarnate once
+Scarf of the Chosen | Worth: 170 | Demand: 6/5 | Status: Grade 3 Tester
+Golden Haori | Worth: 250 | Demand: 3/5 | Status: -
+Vow of Spatial Pulverize | Worth: 270 | Demand: 4/5 | Status: -
+Vow of Ceaseless Clashes | Worth: 220 | Demand: 3/5 | Status: UNOB
+Festive Hat | Worth: 60 | Demand: 3/5 | Status: UNOB
+Festive Pants | Worth: 75 | Demand: 7/5 | Status: EV
+Festive Top | Worth: 55 | Demand: 7/5 | Status: EV
+Vow of Blood Beam | Worth: 55 | Demand: 6.5/5 | Status: EV
+Vow of Snow Grove | Worth: 55 | Demand: 6/5 | Status: UNOB
+Vow of Sweep Onslaught | Worth: 6 | Demand: 6/5 | Status: UNOB
+Vow of Impact | Worth: 55 | Demand: 4/5 | Status: -
+Vow of Justice | Worth: 55 | Demand: 4/5 | Status: -
+Vow of Red Reflection | Worth: 55 | Demand: 4/5 | Status: -
+Vow of the Unbreakable | Worth: 55 | Demand: 4/5 | Status: -
+The Imaginary King | Worth: 60 | Demand: 5/5 | Status: SEC
+Phantasis Impera | Worth: 60 | Demand: 5/6 | Status: SEC
+Aetherion | Worth: 60 | Demand: 5/5 | Status: SEC
+Cloak of Fortune | Worth: 50 | Demand: 6/5 | Status: WB
+Golden Chains of Fortune | Worth: 30 | Demand: 6/5 | Status: WB
+Suit of Fortune | Worth: 20 | Demand: 6/5 | Status: WB
+Trousers of Fortune | Worth: 20 | Demand: 5/5 | Status: WB
+Lunar New Years Cloak | Worth: 30 | Demand: 5/5 | Status: EV
+Red Mask of the Snake | Worth: 30 | Demand: 5/5 | Status: EV
+Black Mask of the Snake | Worth: 30 | Demand: 5/5 | Status: EV
+Pumpkin Reaper Head | Worth: 25 | Demand: 5/5 | Status: UNOB
+Pumpkin Reaper Robe | Worth: 25 | Demand: 5/5 | Status: UNOB
+Pumpkin Reaper Pants | Worth: 25 | Demand: 5/5 | Status: UNOB
+Celestia | Worth: 25 | Demand: 5/5 | Status: SEC
+Fragment of Lapse | Worth: 25 | Demand: 5/5 | Status: SEC
+Blue Crown of Crimson | Worth: 25 | Demand: 5/5 | Status: SEC
+Crown of Azure | Worth: 25 | Demand: 5/5 | Status: SEC
+Ragna | Worth: 25 | Demand: 5/5 | Status: SEC
+Fragment of Reversal Red | Worth: 25 | Demand: 5/5 | Status: SEC
+Helkytis | Worth: 25 | Demand: 5/5 | Status: SEC
+Dynesis | Worth: 25 | Demand: 5/5 | Status: SEC
+Red Suit of Good Luck | Worth: 20 | Demand: 5/5 | Status: EV UNOB
+Red Trousers of Good Luck | Worth: 20 | Demand: 5/5 | Status: EV UNOB
+Eyes of Willpower | Worth: 15 | Demand: 4/5 | Status: BR CT CM
+Eyes of Bloodthirst | Worth: 10 | Demand: 3/5 | Status: -
+Eyes of Insight | Worth: 10 | Demand: 3/5 | Status: -
+Frosted Coat | Worth: 10 | Demand: 4/5 | Status: -
+Frosted Leggings | Worth: 10 | Demand: 4/5 | Status: -
+Halo of Frost | Worth: 10 | Demand: 4/5 | Status: -
+Ring of Frost | Worth: 10 | Demand: 4/5 | Status: -
+Black Hole Buddy | Worth: 10 | Demand: 5/5 | Status: -
+Rotten Ring | Worth: 7 | Demand: 2/5 | Status: -
+Violet Patterned Haori | Worth: 7 | Demand: 2/5 | Status: -
+Soul Robe | Worth: 5 | Demand: 2/5 | Status: -
+Cloak of Inferno | Worth: 5 | Demand: 2/5 | Status: -
+Demonic Robe | Worth: 5 | Demand: 2/5 | Status: -
+Demonic Tobe | Worth: 5 | Demand: 2/5 | Status: -
+Overtime Suit | Worth: 3 | Demand: 2/5 | Status: -
+Rotten Chains | Worth: 3 | Demand: 2/5 | Status: -
+Ring of Thorns | Worth: 3 | Demand: 2/5 | Status: -
+Deep Black Sailor's Vest | Worth: 3 | Demand: 2/5 | Status: -
+Overtime Trousers | Worth: 3 | Demand: 1/5 | Status: -
+Ocean Blue Sailor's Vest | Worth: 3 | Demand: 1/5 | Status: -
+
+==================================================
+THE TRADING SITE - WEAPONS
+==================================================
+Heian Gauntlet | Worth: 3100 | Demand: 6/5 | Status: UNOB
+Turbo Mask | Worth: 800 | Demand: 7/5 | Status: EV
+Hollow Sword | Worth: 525 | Demand: 6/5 | Status: SEC
+Sword of Lapse Blue | Worth: 250 | Demand: 5/5 | Status: SEC
+Sword of Reversal Red | Worth: 250 | Demand: 5/5 | Status: SEC
+Spiked Gauntlets | Worth: 200 | Demand: 5/5 | Status: CM CT IG
+Hollowed Scythe | Worth: 100 | Demand: 5/5 | Status: -
+Winter Bell | Worth: 100 | Demand: 5/5 | Status: CM CT BR
+Infinity Piercer | Worth: 25 | Demand: 5/5 | Status: CM CT IG
+Inverted Spear of Heaven | Worth: 20 | Demand: 6/5 | Status: CM SP MS
+Vengeance Viscera Scythe | Worth: 5 | Demand: 4/5 | Status: CM CT IG
+Ravenous Axe | Worth: 10 | Demand: 5/5 | Status: CM
+The Impossible Dream | Worth: 5 | Demand: 2/5 | Status: CM
+Playful Cloud | Worth: 2 | Demand: 4/5 | Status: CM CT BR
+Blood Sword | Worth: 2 | Demand: 4/5 | Status: IG
+Spirit Soul | Worth: 2 | Demand: 4/5 | Status: IG
+Electric Staff | Worth: 4 | Demand: 2/5 | Status: CM
+Dragon Bone | Worth: 4 | Demand: 2/5 | Status: CM
+Jet Black Feathered Spear | Worth: 4 | Demand: 2/5 | Status: CM
+
+==================================================
+THE TRADING SITE - CURSED OBJECTS
+==================================================
+Sleigh Brigade Skill Scroll | Worth: 800 | Demand: 7.5/8 | Status: EV
+Healing Frost Skill Scroll | Worth: 800 | Demand: 6/6 | Status: EV
+Scroll of Absolute Zero | Worth: 130 | Demand: 5/6 | Status: UNOB BP
+Scroll of Golden Wind | Worth: 100 | Demand: 6/5 | Status: EV
+Snow Brigade Skill Scroll | Worth: 100 | Demand: 7/5 | Status: EV UNOB
+Scroll of Overwhelming Cursed Energy | Worth: 60 | Demand: 5/5 | Status: -
+Domain Shard | Worth: 55 | Demand: 7/5 | Status: WB
+Maximum Scroll | Worth: 50 | Demand: 5/5 | Status: LC CM
+Scroll of Demonic Hellstomp | Worth: 30 | Demand: 5/5 | Status: BM
+Purified Hand | Worth: 10 | Demand: 5/5 | Status: LC CM
+Energy Nature Scroll | Worth: 10 | Demand: 5/5 | Status: BM
+Scroll of Mantis Kick | Worth: 5 | Demand: 1/5 | Status: WB
+Scroll of Acid Spit | Worth: 5 | Demand: 1/5 | Status: WB
+Demon Finger | Worth: 1 | Demand: 5/5 | Status: LC CM SP
+
+==================================================
+THE TRADING SITE - GAMEPASSES
+==================================================
+Item Notifier | Worth: 225 | Demand: 5/6 | Status: RBX - Robux ($)
+Heavenly Restriction | Worth: 150 | Demand: 5/5 | Status: RBX - Robux ($)
+Innate Bag | Worth: 125 | Demand: 5/6 | Status: RBX - Robux ($)
+Premium Battlepass | Worth: 100 | Demand: 5/5 | Status: RBX - Robux ($)
+500 spins | Worth: 100 | Demand: 5/5 | Status: RBX - Robux ($)
+250 spins | Worth: 65 | Demand: 5/5 | Status: RBX - Robux ($)
+100 spins | Worth: 20 | Demand: 5/5 | Status: RBX - Robux ($)
+50 spins | Worth: 20 | Demand: 5/5 | Status: RBX - Robux ($)
+4th Innate Slot | Worth: 50 | Demand: 6/5 | Status: RBX - Robux ($)
+3rd Innate Slot | Worth: 50 | Demand: 6/5 | Status: RBX - Robux ($)
+Skip spins | Worth: 30 | Demand: 5/5 | Status: RBX - Robux ($)
+
+==================================================
+THE TRADING SITE - SETS
+==================================================
+Unob Set | Worth: 8000 | Demand: 10/10 | Status: UNOB
+Dark Heian Set | Worth: 3500 | Demand: 5/5 | Status: UNOB
+Hollow Set + Hollow Sword | Worth: 700 | Demand: 8/5 | Status: SEC
+Hollow Purple Armor Set | Worth: 250 | Demand: 7/5 | Status: SEC
+Festive Set | Worth: 160 | Demand: 5/5 | Status: EV
+Fortune Set | Worth: 120 | Demand: 5/5 | Status: WB
+Lapse Blue Armor Set | Worth: 110 | Demand: 5/5 | Status: -
+Reversal Red Armor Set | Worth: 110 | Demand: 5/5 | Status: -
+Frost Armor Set | Worth: 50 | Demand: 5/5 | Status: -
