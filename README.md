@@ -2,7 +2,7 @@ Free value list for the roblox game Jujutsu Infinite
 This website also has 
 a calculator
 and a fake inventory 
-Next update i might add an ai
+Next update : ???
 heres some images of the website
 
 Value List
