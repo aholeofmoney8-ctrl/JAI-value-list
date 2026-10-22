@@ -135,3 +135,8 @@ Frost Armor Set | Worth: 50 | Demand: 5/5 | Status: -
 DF = Demon Fingers
 DS = Domain Shard
 MS = maximum scroll
+UNOB = Unobtainable
+EV = Event
+SEC = Six Eyes Calamity
+WB = World Bosses
+RBX = Robux
