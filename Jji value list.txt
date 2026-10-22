@@ -131,3 +131,7 @@ Fortune Set | Worth: 120 | Demand: 5/5 | Status: WB
 Lapse Blue Armor Set | Worth: 110 | Demand: 5/5 | Status: -
 Reversal Red Armor Set | Worth: 110 | Demand: 5/5 | Status: -
 Frost Armor Set | Worth: 50 | Demand: 5/5 | Status: -
+
+DF = Demon Fingers
+DS = Domain Shard
+MS = maximum scroll
